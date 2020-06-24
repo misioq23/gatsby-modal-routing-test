@@ -1,0 +1,49 @@
+.navbar {
+	position: fixed;
+	width: 100vw;
+	z-index: 1;
+	background: white;
+}
+
+.menu {
+	display: flex;
+	padding: 1em;
+	margin: 0 auto;
+	list-style-type: none;
+	width: 50%;
+	justify-content: space-evenly;
+}
+
+.menu--link {
+	color: black;
+	text-decoration: none;
+	font-size: 1.25em;
+}
+
+.menu--link:hover,
+.menu--link:focus {
+	color: tomato
+}
+
+.section {
+	height: 100vh;
+	text-align: center;
+	line-height: 100vh;
+	color: white;
+	font-size: 3em;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.first {
+	background: rebeccapurple;
+}
+
+.second {
+	background: wheat;
+		color: #333;
+}
+
+.third {
+	background: tomato;
+}
