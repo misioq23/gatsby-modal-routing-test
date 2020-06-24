@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-modal-routing-test",
+  "version": "1.0.0",
+  "author": "misioq23",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.23.11",
+    "gatsby-plugin-modal-routing": "^1.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
